@@ -1,0 +1,22 @@
+titulo {
+  color: blue;
+  font-size: 24px;
+}
+
+
+.texto {
+  color: red;
+  font-family: Arial;
+}
+
+
+#especial {
+  color: red;
+  font-weight: bold;
+}
+
+
+#header {
+  background-color: lightblue;
+  padding: 20px;
+}
